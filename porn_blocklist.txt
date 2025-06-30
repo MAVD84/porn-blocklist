@@ -1,8 +1,9 @@
+!
 ! Lista de bloqueo de sitios pornográficos
 ! Autor: Miguel Vega (flexhost.vip)
 ! Última actualización: 2025-06-30
 ! Formato: AdGuard / uBlock / Pi-hole compatible
-
+!
 ||pornhub.com^
 ||es.pornhub.com^
 ||xvideos.com^
