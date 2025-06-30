@@ -1,0 +1,35 @@
+! Lista de bloqueo de sitios pornográficos
+! Autor: Miguel Vega (flexhost.vip)
+! Última actualización: 2025-06-30
+! Formato: AdGuard / uBlock / Pi-hole compatible
+
+||pornhub.com^
+||xvideos.com^
+||xnxx.com^
+||redtube.com^
+||youporn.com^
+||brazzers.com^
+||xhamster.com^
+||beeg.com^
+||spankbang.com^
+||efukt.com^
+||hqporner.com^
+||mofos.com^
+||bangbros.com^
+||onlyfans.com^
+||rule34.xxx^
+||fapello.com^
+||nhentai.net^
+||leakxxx.com^
+||tnaflix.com^
+||3movs.com^
+||hclips.com^
+||porndig.com^
+||camwhores.tv^
+||camsoda.com^
+||stripchat.com^
+||myfreecams.com^
+||chaturbate.com^
+||livejasmin.com^
+
+! Puedes añadir más sitios abajo
