@@ -4,6 +4,7 @@
 ! Formato: AdGuard / uBlock / Pi-hole compatible
 
 ||pornhub.com^
+||es.pornhub.com^
 ||xvideos.com^
 ||xnxx.com^
 ||redtube.com^
